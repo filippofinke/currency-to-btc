@@ -1,0 +1,19 @@
+{
+  "name": "filippofinke/currency-to-btc",
+  "description": "Currency exchange in BTC",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Filippo Finke",
+      "email": "filippo.finke@samtrevano.ch"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CurrencyToBtc\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}
